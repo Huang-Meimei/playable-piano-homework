@@ -1,0 +1,24 @@
+<li className='key white' data-key='c'><span>c</span></li>
+            <li className='key black' data-key='#c'><span>#c</span></li>
+            <li className='key white' data-key='d'><span>d</span></li>
+            <li className='key black' data-key='#d'><span>#d</span></li>
+            <li className='key white' data-key='e'><span>e</span></li>
+            <li className='key white' data-key='f'><span>f</span></li>
+            <li className='key black' data-key='#f'><span>#f</span></li>
+            <li className='key white' data-key='g'><span>g</span></li>
+            <li className='key black' data-key='#g'><span>#g</span></li>
+            <li className='key white' data-key='a'><span>a</span></li>
+            <li className='key black' data-key='#a'><span>#a</span></li>
+            <li className='key white' data-key='b'><span>b</span></li>
+            <li className='key white' data-key='c'><span>c</span></li>
+            <li className='key black' data-key='#c'><span>#c</span></li>
+            <li className='key white' data-key='d'><span>d</span></li>
+            <li className='key black' data-key='#d'><span>#d</span></li>
+            <li className='key white' data-key='e'><span>e</span></li>
+            <li className='key white' data-key='f'><span>f</span></li>
+            <li className='key black' data-key='#f'><span>#f</span></li>
+            <li className='key white' data-key='g'><span>g</span></li>
+            <li className='key black' data-key='#g'><span>#g</span></li>
+            <li className='key white' data-key='a'><span>a</span></li>
+            <li className='key black' data-key='#a'><span>#a</span></li>
+            <li className='key white' data-key='b'><span>b</span></li>
